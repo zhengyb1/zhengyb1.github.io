@@ -1,0 +1,27 @@
+# robots.txt generated at http://tool.chinaz.com/robots/ 
+User-agent: *
+# 允许访问的内容
+Allow: /
+Allow: /2021/
+Allow: /2022/
+Allow: /archives/
+Allow: /assets/img
+Allow: /fonts/
+Allow: /img/
+Allow: /categories/
+Allow: /page/
+Allow: /photos/
+Allow: /tags/
+
+# 不允许访问的内容
+Disallow: /assets/
+Disallow: /fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /music/
+Disallow: /css/
+Disallow: /*.js
+Disallow: /*.css
+
+Sitemap: https://blog.yixingyuntech.com/baidusitemap.xml
+Sitemap: https://blog.yixingyuntech.com/sitemap.xml
